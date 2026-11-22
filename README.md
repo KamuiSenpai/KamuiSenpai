@@ -1,6 +1,10 @@
 ![Christian Cuba — Building Ajedrez Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/6c17b134f945df6bf9c30ac18f94ade7691232a2/assets/christian-cuba-banner.svg)
 
-[English](#english) · [Español](#español) · [Let's talk / Conversemos](mailto:xtiancuba90@gmail.com)
+[English](#english) · [Español](#español)
+
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/christian-erick-cuba-alejos-096327187/)
+[![Email / Correo](assets/email.svg)](mailto:xtiancuba90@gmail.com)
+[![Explore Nexus / Ver Nexus](assets/nexus.svg)](https://github.com/KamuiSenpai/ajedrez-nexus)
 
 ## English
 
@@ -12,7 +16,7 @@ I'm **Christian Cuba**, creator of **Ajedrez Nexus**. I'm building a connected w
 
 **Current focus:** refining Nexus, improving the learning experience and preparing the foundations for future English and Mac editions.
 
-Nexus is currently a private project. If you are a player, coach or potential collaborator and would like to know more, **[write to me](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**. No public download is announced yet.
+Explore the **[Nexus presentation and visual tour](https://github.com/KamuiSenpai/ajedrez-nexus)**. The application source remains private; no public download is announced yet. If you are a player, coach or potential collaborator, **[write to me](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.
 
 ## Español
 
@@ -24,7 +28,7 @@ Soy **Christian Cuba**, creador de **Ajedrez Nexus**. Estoy construyendo un espa
 
 **Ahora:** mejorar Nexus, pulir la experiencia de aprendizaje y preparar las bases de futuras ediciones en inglés y para Mac.
 
-Nexus es actualmente un proyecto privado. Si juegas ajedrez, das clases o te interesa colaborar y conocer más, **[escríbeme](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**. Todavía no se anuncia una descarga pública.
+Visita la **[presentación y galería de Nexus](https://github.com/KamuiSenpai/ajedrez-nexus)**. El código de la aplicación permanece privado y todavía no se anuncia una descarga pública. Si juegas ajedrez, das clases o te interesa colaborar, **[escríbeme](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.
 
 ---
 

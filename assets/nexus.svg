@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="38" viewBox="0 0 160 38" role="img" aria-label="Explore Nexus / Ver Nexus">
+  <rect x=".5" y=".5" width="159" height="37" rx="8" fill="#c6fa76" stroke="#8dbb42"/>
+  <g transform="translate(12 10)"><rect width="8" height="8" rx="2" fill="#281b42"/><rect x="10" width="8" height="8" rx="2" fill="#677346"/><rect y="10" width="8" height="8" rx="2" fill="#8974bd"/><rect x="10" y="10" width="8" height="8" rx="2" fill="#55466d"/></g>
+  <text x="41" y="24" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#20172f">Ver Nexus / View</text>
+</svg>
