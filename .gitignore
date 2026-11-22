@@ -1,0 +1,6 @@
+# Public profile assets only. No private application or data files.
+*
+!/.gitignore
+!/README.md
+!/assets/
+!/assets/christian-cuba-banner.svg
