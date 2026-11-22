@@ -6,6 +6,10 @@
     <radialGradient id="light"><stop stop-color="#b5a1ed" stop-opacity=".16"/><stop offset="1" stop-color="#b5a1ed" stop-opacity="0"/></radialGradient>
     <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".44"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
     <clipPath id="markClip"><rect x="-88" y="-88" width="78" height="78" rx="15"/><rect x="2" y="-88" width="78" height="78" rx="15"/><rect x="-88" y="2" width="78" height="78" rx="15"/><rect x="2" y="2" width="78" height="78" rx="15"/></clipPath>
+    <pattern id="chessBoard" width="96" height="96" patternUnits="userSpaceOnUse"><rect width="48" height="48" fill="#e2d7f5" fill-opacity=".065"/><rect x="48" y="48" width="48" height="48" fill="#e2d7f5" fill-opacity=".065"/></pattern>
+    <linearGradient id="boardFade"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".45" stop-color="#fff" stop-opacity=".65"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <mask id="boardMask"><rect x="800" width="480" height="320" fill="url(#boardFade)"/></mask>
+    <clipPath id="bannerClip"><rect width="1280" height="320" rx="24"/></clipPath>
   </defs>
   <style>
     .brand-motion { transform-origin: 0px 0px; animation: brand-turn 4.8s cubic-bezier(.4,0,.2,1) infinite; }
@@ -15,6 +19,7 @@
     @media (prefers-reduced-motion: reduce) { .brand-motion { animation: none; } .brand-shine { display: none; animation: none; } }
   </style>
   <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="800" width="480" height="320" fill="url(#chessBoard)" mask="url(#boardMask)" clip-path="url(#bannerClip)"/>
   <rect x="1" y="1" width="1278" height="318" rx="23" fill="none" stroke="#bba6ec" stroke-opacity=".18"/>
   <ellipse cx="1050" cy="150" rx="310" ry="240" fill="url(#light)"/>
   <path d="M64 252H796" stroke="#c7b5ed" stroke-opacity=".22"/>
