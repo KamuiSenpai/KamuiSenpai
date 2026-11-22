@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="38" viewBox="0 0 136 38" role="img" aria-label="Email / Correo">
-  <rect x=".5" y=".5" width="135" height="37" rx="8" fill="#392754" stroke="#b79fdf" stroke-opacity=".7"/>
-  <rect x="12" y="12" width="20" height="14" rx="3" fill="none" stroke="#d7fb9c" stroke-width="1.7"/>
-  <path d="m13 13 9 7 9-7" fill="none" stroke="#d7fb9c" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="43" y="24" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#fff">Email</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42" role="img" aria-label="Gmail / Correo">
+  <defs><linearGradient id="surface" x2="0" y2="1"><stop stop-color="#362846"/><stop offset="1" stop-color="#251c33"/></linearGradient></defs>
+  <rect x=".75" y=".75" width="158.5" height="40.5" rx="10" fill="url(#surface)" stroke="#806798" stroke-width="1.5"/>
+  <path d="M12 2h136" stroke="#fff" stroke-opacity=".09"/>
+  <g transform="translate(14 9)">
+    <path d="M0 6v13a2 2 0 0 0 2 2h3V9.7z" fill="#4285f4"/>
+    <path d="M19 9.7V21h3a2 2 0 0 0 2-2V6z" fill="#34a853"/>
+    <path d="M0 6c0-1.7 1.9-2.7 3.3-1.7L5 5.6v6L0 7.8z" fill="#c5221f"/>
+    <path d="m19 5.6 1.7-1.3C22.1 3.3 24 4.3 24 6v1.8l-5 3.8z" fill="#fbbc04"/>
+    <path d="m5 5.6 7 5.2 7-5.2v6L12 17l-7-5.4z" fill="#ea4335"/>
+  </g>
+  <text x="52" y="26" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#f7f4fb">Gmail</text>
 </svg>
