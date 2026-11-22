@@ -4,6 +4,21 @@
 [![Gmail / Correo](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/email.svg)](mailto:xtiancuba90@gmail.com)
 [![Explore Nexus / Ver Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/nexus.svg)](https://github.com/KamuiSenpai/ajedrez-nexus#readme-ov-file)
 
+## About me · Sobre mí
+
+I'm **Christian Cuba**, creator of **Ajedrez Nexus**. I'm building a connected workspace for chess players and coaches: a place to prepare openings, practice with guidance and understand games through analysis.
+
+Soy **Christian Cuba**, creador de **Ajedrez Nexus**. Estoy construyendo un espacio conectado para jugadores y entrenadores: preparar aperturas, practicar con orientación y comprender las partidas a través del análisis.
+
+> **Current focus · Ahora**<br>
+> Refining Nexus and improving its learning experience.<br>
+> Mejorar Nexus y su experiencia de aprendizaje.
+
+If you play chess, coach or want to collaborate, **[let's talk](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.<br>
+Si juegas ajedrez, das clases o te interesa colaborar, **[conversemos](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.
+
+## Ajedrez Nexus
+
 **Opening preparation, guided practice and analysis — together.**
 
 [![Nexus in action: opening explorer, annotated study and Stockfish analysis / Nexus en acción: explorador, estudio comentado y análisis](https://raw.githubusercontent.com/KamuiSenpai/ajedrez-nexus/aeec67b5b708cddb8b795cf00fde44fed62e635d/docs/screenshots/02-analysis-and-studies.jpg)](https://raw.githubusercontent.com/KamuiSenpai/ajedrez-nexus/aeec67b5b708cddb8b795cf00fde44fed62e635d/docs/screenshots/02-analysis-and-studies.jpg)
@@ -18,8 +33,6 @@
 
 <details>
 <summary><strong>Español · Conoce Nexus</strong></summary>
-
-Soy **Christian Cuba**, creador de **Ajedrez Nexus**: un espacio para preparar aperturas, practicar y comprender las partidas.
 
 - **Preparar:** explorar aperturas, construir tu repertorio y repasar líneas.
 - **Practicar:** lecciones, táctica y finales con progreso guardado.
