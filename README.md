@@ -1,10 +1,10 @@
-![Christian Cuba — Building Ajedrez Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/6c17b134f945df6bf9c30ac18f94ade7691232a2/assets/christian-cuba-banner.svg)
+![Christian Cuba — Building Ajedrez Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/christian-cuba-banner.svg)
 
 [English](#english) · [Español](#español)
 
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/christian-erick-cuba-alejos-096327187/)
-[![Email / Correo](assets/email.svg)](mailto:xtiancuba90@gmail.com)
-[![Explore Nexus / Ver Nexus](assets/nexus.svg)](https://github.com/KamuiSenpai/ajedrez-nexus)
+[![LinkedIn](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/linkedin.svg)](https://www.linkedin.com/in/christian-erick-cuba-alejos-096327187/)
+[![Gmail / Correo](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/email.svg)](mailto:xtiancuba90@gmail.com)
+[![Explore Nexus / Ver Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/nexus.svg)](https://github.com/KamuiSenpai/ajedrez-nexus)
 
 ## English
 
