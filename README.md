@@ -1,34 +1,37 @@
 ![Christian Cuba — Building Ajedrez Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/christian-cuba-banner.svg)
 
-[English](#english) · [Español](#español)
-
 [![LinkedIn](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/linkedin.svg)](https://www.linkedin.com/in/christian-erick-cuba-alejos-096327187/)
 [![Gmail / Correo](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/email.svg)](mailto:xtiancuba90@gmail.com)
-[![Explore Nexus / Ver Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/nexus.svg)](https://github.com/KamuiSenpai/ajedrez-nexus)
+[![Explore Nexus / Ver Nexus](https://raw.githubusercontent.com/KamuiSenpai/KamuiSenpai/f6845d2a7e0fae6611146a1e923e9b0b3ef359ea/assets/nexus.svg)](https://github.com/KamuiSenpai/ajedrez-nexus#readme-ov-file)
 
-## English
+**Opening preparation, guided practice and analysis — together.**
 
-I'm **Christian Cuba**, creator of **Ajedrez Nexus**. I'm building a connected workspace for chess players and coaches: a place to prepare openings, practice with guidance and understand games through analysis.
+[![Nexus in action: opening explorer, annotated study and Stockfish analysis / Nexus en acción: explorador, estudio comentado y análisis](https://raw.githubusercontent.com/KamuiSenpai/ajedrez-nexus/aeec67b5b708cddb8b795cf00fde44fed62e635d/docs/screenshots/02-analysis-and-studies.jpg)](https://raw.githubusercontent.com/KamuiSenpai/ajedrez-nexus/aeec67b5b708cddb8b795cf00fde44fed62e635d/docs/screenshots/02-analysis-and-studies.jpg)
 
-| Study | Practice | Understand |
-| :--- | :--- | :--- |
-| Explore openings and build a repertoire. | Learn on the board and revisit what matters. | Analyze games and turn positions into plans. |
+<sub>Local Windows build · Captured November 18, 2026 · Click the image to enlarge.</sub>
 
-**Current focus:** refining Nexus, improving the learning experience and preparing the foundations for future English and Mac editions.
+- **Prepare:** explore openings, build your repertoire and review lines.
+- **Practice:** guided lessons, tactics and endgames with saved progress.
+- **Understand:** Stockfish analysis and annotated PGN, PDF and HTML studies.
 
-Explore the **[Nexus presentation and visual tour](https://github.com/KamuiSenpai/ajedrez-nexus)**. The application source remains private; no public download is announced yet. If you are a player, coach or potential collaborator, **[write to me](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.
+[Explore the complete visual tour](https://github.com/KamuiSenpai/ajedrez-nexus/blob/main/docs/GALLERY.md) · [Product status](https://github.com/KamuiSenpai/ajedrez-nexus/blob/main/docs/PRODUCT_STATUS.md)
 
-## Español
+<details>
+<summary><strong>Español · Conoce Nexus</strong></summary>
 
-Soy **Christian Cuba**, creador de **Ajedrez Nexus**. Estoy construyendo un espacio conectado para jugadores y entrenadores: preparar aperturas, practicar con orientación y comprender las partidas a través del análisis.
+Soy **Christian Cuba**, creador de **Ajedrez Nexus**: un espacio para preparar aperturas, practicar y comprender las partidas.
 
-| Estudiar | Practicar | Comprender |
-| :--- | :--- | :--- |
-| Explorar aperturas y construir un repertorio. | Aprender en el tablero y repasar lo importante. | Analizar partidas y convertir posiciones en planes. |
+- **Preparar:** explorar aperturas, construir tu repertorio y repasar líneas.
+- **Practicar:** lecciones, táctica y finales con progreso guardado.
+- **Comprender:** análisis Stockfish y estudios comentados en PGN, PDF y HTML.
 
-**Ahora:** mejorar Nexus, pulir la experiencia de aprendizaje y preparar las bases de futuras ediciones en inglés y para Mac.
+La captura corresponde a la versión local Windows del **18 de noviembre de 2026** y puede ampliarse. La interfaz actual está en español; Mac e inglés completo están previstos. El código permanece privado y no se anuncia una descarga pública.
 
-Visita la **[presentación y galería de Nexus](https://github.com/KamuiSenpai/ajedrez-nexus)**. El código de la aplicación permanece privado y todavía no se anuncia una descarga pública. Si juegas ajedrez, das clases o te interesa colaborar, **[escríbeme](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.
+Para clases, comentarios o colaboración, **[escríbeme](mailto:xtiancuba90@gmail.com?subject=Ajedrez%20Nexus)**.
+
+</details>
+
+**Availability:** Windows, Spanish UI. Mac and full English interface are planned. Application source remains private; no public download is announced.
 
 ---
 
