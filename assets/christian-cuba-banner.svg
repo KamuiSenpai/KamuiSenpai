@@ -4,7 +4,16 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e1734"/><stop offset="1" stop-color="#3d2a61"/></linearGradient>
     <radialGradient id="light"><stop stop-color="#b5a1ed" stop-opacity=".16"/><stop offset="1" stop-color="#b5a1ed" stop-opacity="0"/></radialGradient>
+    <linearGradient id="shine"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".44"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="markClip"><rect x="-88" y="-88" width="78" height="78" rx="15"/><rect x="2" y="-88" width="78" height="78" rx="15"/><rect x="-88" y="2" width="78" height="78" rx="15"/><rect x="2" y="2" width="78" height="78" rx="15"/></clipPath>
   </defs>
+  <style>
+    .brand-motion { transform-origin: 0px 0px; animation: brand-turn 4.8s cubic-bezier(.4,0,.2,1) infinite; }
+    .brand-shine { animation: brand-light 4.8s cubic-bezier(.4,0,.2,1) infinite; }
+    @keyframes brand-turn { 0%,14%,64%,100% { transform: rotate(0deg); } 34% { transform: rotate(3deg); } 48% { transform: rotate(-.7deg); } }
+    @keyframes brand-light { 0%,12% { transform: translateX(0); opacity: 0; } 18% { opacity: 1; } 46% { transform: translateX(360px); opacity: 1; } 54%,100% { transform: translateX(360px); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .brand-motion { animation: none; } .brand-shine { display: none; animation: none; } }
+  </style>
   <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
   <rect x="1" y="1" width="1278" height="318" rx="23" fill="none" stroke="#bba6ec" stroke-opacity=".18"/>
   <ellipse cx="1050" cy="150" rx="310" ry="240" fill="url(#light)"/>
@@ -16,11 +25,14 @@
   <text x="65" y="222" fill="#ded5ed" font-family="Arial, Helvetica, sans-serif" font-size="18">Study with purpose. Understand the game.</text>
   <text x="65" y="282" fill="#c6b6dd" font-family="Arial, Helvetica, sans-serif" font-size="15">Estudiar · Practicar · Comprender</text>
   <g transform="translate(1032 151) rotate(-12)">
+    <g class="brand-motion">
     <rect x="-88" y="-88" width="78" height="78" rx="15" fill="#c6fa76"/>
     <rect x="2" y="-88" width="78" height="78" rx="15" fill="#8c9b71"/>
     <rect x="-88" y="2" width="78" height="78" rx="15" fill="#b5a0f2"/>
     <rect x="2" y="2" width="78" height="78" rx="15" fill="#685a87"/>
     <path d="M-69-74h36" stroke="#f0ffd9" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+    <g clip-path="url(#markClip)"><rect class="brand-shine" x="-196" y="-120" width="64" height="260" transform="skewX(-16)" fill="url(#shine)" opacity="0"/></g>
+    </g>
   </g>
   <text x="1028" y="282" text-anchor="middle" fill="#ded1f2" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">AJEDREZ NEXUS</text>
 </svg>

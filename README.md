@@ -1,4 +1,4 @@
-![Christian Cuba — Building Ajedrez Nexus](assets/christian-cuba-banner.svg)
+![Christian Cuba — Building Ajedrez Nexus](assets/christian-cuba-banner.svg?v=2)
 
 [English](#english) · [Español](#español) · [Let's talk / Conversemos](mailto:xtiancuba90@gmail.com)
 
